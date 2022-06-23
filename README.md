@@ -7,7 +7,17 @@ This is a repo for compiling and installing python from scratch
 
 `wget https://www.python.org/ftp/python/3.10.5/Python-3.10.5.tgz`
 
-`tar zxvf Python-3.10.5.tgz`
+` ./configure --enable-optimizations`
+
+`make -j 16`
+
+`make altinstall `
+
+### Create virtualenv and source
+
+`/usr/local/bin/python -m venv ~/.venv`
+
+`vim ~/.bashrc` and add line:  `source ~/.venv/bin/activate`
 
 ## References
 
