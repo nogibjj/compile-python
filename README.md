@@ -22,4 +22,4 @@ This is a repo for compiling and installing python from scratch
 ## References
 
 * [Watch on YouTube](https://www.youtube.com/watch?v=gzh329Yzv8E)
-* [Watch on O'Reilly Media](https://lnkd.in/eJQhY-t8)
+* [Watch on O'Reilly Media](https://www.oreilly.com/videos/compiling-python-from/062212022VIDEOPAIML/)
